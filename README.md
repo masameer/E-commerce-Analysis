@@ -1,6 +1,6 @@
 ## **Ecommerce Database**
 
-This project sets up a simple relational database for an eCommerce platform using SQL. It includes tables for customers, orders, products, order details, and categories. The goal is to manage eCommerce data effectively and provide a framework for querying this data.
+This project sets up a simple relational database for an E-Commerce platform using MySQL. It includes tables for customers, orders, products, order details, and categories. The goal is to manage E-Commerce data effectively and provide a framework for querying this data.
 
 
 ### **Database Structure**
